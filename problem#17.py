@@ -1,3 +1,4 @@
+# =================================  NOT MY SOLUTION  =================================
 def number_to_english(n: int) -> str:
   """ Translate an integer into words form
 
